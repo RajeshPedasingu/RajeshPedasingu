@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RajeshPedasingu
-- 👀 I’m interested in ...m
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...signal processing and image processing .
+- 🌱 I’m currently learning ... machine learning 
+- 💞️ I’m looking to collaborate on ...image processing related work
+- 📫 you can reach me through my mail rajeshpedasingu@gmail.com
 
 <!---
 RajeshPedasingu/RajeshPedasingu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
