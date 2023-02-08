@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajeshPedasingu
-- 👀 I’m interested in ...signal processing and image processing .
-- 🌱 I’m currently learning ... machine learning 
-- 💞️ I’m looking to collaborate on ...image processing related work
+- 👀 I’m interested in ...signal processing , image processing and Digital Electronics.
+- 🌱 I’m currently learning ... DeepLearning learning 
+- 💞️ I’m looking to collaborate on ...Medical imaging projects related work.
 - 📫 you can reach me through my mail rajeshpedasingu@gmail.com
 
 <!---
