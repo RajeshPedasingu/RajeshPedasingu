@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajeshPedasingu
 - 👀 I’m interested in ...signal processing , image processing and Digital Electronics.
-- 🌱 I’m currently learning ... DeepLearning learning 
+- 🌱 I’m currently Working as Deputy Manager @ Mahindra Last Mile Mobility, Embedded system development . 
 - 💞️ I’m looking to collaborate on ...Medical imaging related work.
 - 📫 you can reach me through my mail rajeshpedasingu@gmail.com
 
